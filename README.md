@@ -22,6 +22,6 @@ I was inspired by AI resources and created this app in 2 days. Enjoy it!
 Implementing code editor library and providing adaptive design for all screens.
 
 #### 3. [Clover Drone Kit - Open Source Project](https://github.com/Svetk0/clever)
-My previous experience as a technical writer. <br>
+My previous experience as a technical writer & Project Manager. <br>
 We created an awesome product that allows thousands of students to explore ROS, Python, and autonomous flight.
 
