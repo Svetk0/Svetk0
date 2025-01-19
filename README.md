@@ -2,7 +2,7 @@
 ### Info
 - Junior+ Frontend Developer
 - Technical Writer
-- SCRUM Master
+- SCRUM Master & Project Manager
 
 ### Contacts
 - [CV](https://hh.ru/resume/6103c61fff0cb952210039ed1f64357567564d?from=share_ios)
