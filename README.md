@@ -1,6 +1,6 @@
 ## I'm Svetlana, Frontend Developer
 ### Info
-- Junior+ Frontend Developer
+- Frontend Developer
 - Technical Writer
 - SCRUM Master & Project Manager
 
