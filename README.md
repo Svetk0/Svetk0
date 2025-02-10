@@ -11,20 +11,26 @@
 
 ## I'm Currently Working On 
 #### Full-stack Multi-page Website with AI Assistance (NDA)
-Our team is developing a large website using modern tech stack and FSD architecture: <br>
-Next.js, TypeScript, Axios, Sass, SCSS, React Hook Form, Figma, Docker, ESLint, REST API, Git, HTML, CSS3, Mattermost
+Our team is developing a large website using modern tech stack and FSD (Feature-Sliced Design) architecture: <br>
+Next.js, TypeScript, Axios, Zustand, Sass, SCSS, React Hook Form, Figma, Docker, ESLint, REST API, Git, HTML, CSS3, Mattermost.
 
 ## Open Projects
 #### 1. [SMART goals helper](https://github.com/Svetk0/smart-goals-assistant)
-a light tool for creating SMART goals. This chat app helps you to be more effective. Awesome tool for project/product managers and other who lead of team and use any task tracker
+*Tech: Next.js, GPT-4o-mini* <br>
+a simple tool for creating SMART goals. This chat app helps you to be more effective. Awesome tool for project/product managers and other who lead of team and use any task tracker
 
-#### 2. [Tetris Game for Fun](https://github.com/Svetk0/tetris-ai)
+#### 2. [Challenge App (in progress)](https://github.com/Svetk0/challenge-app)
+*Tech: Next.js, TypeScript, Redux Toolkit, React Hook Form, SCSS Modules, ESLint & Prettier* <br>
+A Next.js application for tracking personal challenges and goals.  <br> My experience as team lead is create full stack app.
+
+#### 3. [Tetris Game for Fun](https://github.com/Svetk0/tetris-ai)
 I was inspired by AI resources and created this app in 2 days. Enjoy it!
 
-#### 3. [Online Code Editor](https://github.com/Svetk0/task-code-editor)
+#### 4. [Online Code Editor](https://github.com/Svetk0/task-code-editor)
 Implementing code editor library and providing adaptive design for all screens.
 
-#### 4. [Clover Drone Kit - Open Source Project](https://github.com/Svetk0/clever)
+#### 5. [Clover Drone Kit - Open Source Project](https://github.com/Svetk0/clever)
+*Tech: ROS, Python + hardware (Raspberri Pi)* <br>
 My previous experience as a technical writer & Project Manager. <br>
 We created an awesome product that allows thousands of students to explore ROS, Python, and autonomous flight.
 
