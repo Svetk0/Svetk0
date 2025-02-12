@@ -23,11 +23,11 @@ a simple tool for creating SMART goals. This chat app helps you to be more effec
 *Tech: Next.js, TypeScript, Redux Toolkit, React Hook Form, SCSS Modules, ESLint & Prettier* <br>
 A Next.js application for tracking personal challenges and goals.  <br> My experience as team lead is create full stack app.
 
-#### 3. [Tetris Game for Fun](https://github.com/Svetk0/tetris-ai)
-I was inspired by AI resources and created this app in 2 days. Enjoy it!
+#### 3. [Show public repos using GitHub username](https://github.com/Svetk0/search-github-users)
+Web App with Next.js featuring infinite scrolling (including optimized fetching) and Docker container.
 
-#### 4. [Online Code Editor](https://github.com/Svetk0/task-code-editor)
-Implementing code editor library and providing adaptive design for all screens.
+#### 4. [Tetris Game for Fun](https://github.com/Svetk0/tetris-ai)
+I was inspired by AI resources and created this app in 2 days. Enjoy it!
 
 #### 5. [Clover Drone Kit - Open Source Project](https://github.com/Svetk0/clever)
 *Tech: ROS, Python + hardware (Raspberri Pi)* <br>
