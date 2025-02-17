@@ -15,7 +15,7 @@ Our team is developing a large website using modern tech stack and FSD (Feature-
 Next.js, TypeScript, Axios, Zustand, Sass, SCSS, React Hook Form, Figma, Docker, ESLint, REST API, Git, HTML, CSS3, Mattermost.
 
 ## Open Projects
-#### 1. [SMART goals helper](https://github.com/Svetk0/smart-goals-assistant)
+#### 1. [SMART goals helper (with AI assistance)](https://github.com/Svetk0/smart-goals-assistant)
 *Tech: Next.js, GPT-4o-mini* <br>
 a simple tool for creating SMART goals. This chat app helps you to be more effective. Awesome tool for project/product managers and other who lead of team and use any task tracker
 
